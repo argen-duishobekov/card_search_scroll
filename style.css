@@ -1,0 +1,48 @@
+ body {
+    text-align:center;
+    background-color: #76ff7d96;
+}
+.dnone {
+    display: none;
+}
+.container {
+    width: 860px;
+    height: 760px;
+    overflow: auto;
+    margin: 0 auto;
+    padding: 20px;
+    border: 5px solid #2AC705;
+}
+.card {
+    margin: 20px;
+    border: 2px solid #2AC705;
+    border-radius: 15px;
+}
+.card-body {
+    color:#0CAB05;
+    font-size: 16px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.idCard {
+    color: #0CAB05;
+    font-size: 24px;
+    text-align: center;
+}
+.lists {
+    display: flex;
+    flex-wrap: wrap;
+}
+#input {
+    margin: 18px;
+    padding: 20px;
+    width: 300px;
+    height: 30px;
+    color: #0CAB05;
+    border: 3px solid #2AC705;
+    border-radius: 15px;
+    font-size: 24px;
+}
+mark {
+    background-color: #0CAB05;
+}
